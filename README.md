@@ -2,4 +2,4 @@
 
 ***目录***
 
-* [JavaScript自我实现系列（1）：constructor](https://github.com/best-xiaoqiang/note-sm)
+* [JavaScript自我实现系列（1）：constructor](https://github.com/best-xiaoqiang/Huskie/issues/1)
