@@ -1,7 +1,7 @@
-* 作用域
-* 闭包
-* 引用类型
-* this
-* new
-* 原型链
-* 继承
+* [作用域](https://github.com/best-xiaoqiang/self-come-true/issues/5)
+* [闭包](https://github.com/best-xiaoqiang/self-come-true/issues/6)
+* [引用类型](https://github.com/best-xiaoqiang/self-come-true/issues/7)
+* [this](https://github.com/best-xiaoqiang/self-come-true/issues/8)
+* [new](https://github.com/best-xiaoqiang/self-come-true/issues/9)
+* [原型链](https://github.com/best-xiaoqiang/self-come-true/issues/10)
+* [继承](https://github.com/best-xiaoqiang/self-come-true/issues/11)
